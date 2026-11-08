@@ -1,2 +1,2 @@
 # byedpibref83-
-https://t.me/webproxy?server=tavienne.xyz&secret=dd0ac7290872004ac465cfea1b05d5ffb8
+https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
